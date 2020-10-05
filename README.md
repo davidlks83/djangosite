@@ -1,1 +1,1 @@
-# djangosite
+# django-heroku-example
